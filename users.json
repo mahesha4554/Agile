@@ -1,0 +1,44 @@
+ [
+    {
+        "image": "user1",
+        "name": "Ankitha",
+        "dob":"2024-04-30",
+        "post": "Have We Met? I am Ankitha. Today is my birthday!",
+        "likes": 4,
+        "likedby": ["Raja","Hari","Geetha","John"],
+        "comments": [
+            { "comment": "Happy Birthday!", "commentedby": "Raja" },
+            { "comment": "Wishing you a year ahead filled with happiness and success! Day to shine! Cheers to another year!", "commentedby": "Hari" },
+            { "comment": "Happy Birthday! Have a great year ahead", "commentedby": "Geetha" }
+        ]
+    },
+    {
+        "image": "user2",
+        "name": "Ameena",
+        "dob":"2024-04-10",
+        "post": "Have We Met? I am Ameena. Today is my birthday!",
+        "likes": 3,
+        "likedby": ["Venu","Vijay","Ajay"],
+        "comments": [
+            { "comment": "Happy Birthday!", "commentedby": "Vijay" },
+            { "comment": "Happy Birthday! Have a great year ahead", "commentedby": "Venu" }
+        ]
+    },
+    {
+        "image": "user3",
+        "name": "Jhon",
+        "dob":"2024-04-20",
+        "post": "Have We Met? I am Jhon. Today is my birthday!",
+        "likes": 6,
+        "likedby": ["Mamatha","Manasa","Geetha","Jairaj","Vinay","Anand"],
+        "comments": [
+            { "comment": "Happy Birthday!", "commentedby": "Vinay" },
+            { "comment": "Happy Birtday May god bless you", "commentedby": "Mamatha" },
+            { "comment": "Happy Birthday! Have a great year ahead", "commentedby": "Anand" },
+            { "comment": "Happy Birthday! Party hard enjoy your day", "commentedby": "Jairaj" },
+            { "comment": "Happy Birthday! blast your day and stay kush", "commentedby": "Manasa" }
+        ]
+    }
+    
+    
+]
